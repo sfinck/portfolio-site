@@ -2,15 +2,22 @@
 
 ## Table of Contents
 * [Overview](#overview)
+* [Technologies](#technologies)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Screenshots](#screenshots)
 * [Deployed](#deployed)
+* [License](#license)
 * [Contact](#contact)
 
 ## Overview 
 This project was designed to show case information, pictures and enable a way to contact me. The website's home page includes a selfie portrait of me and a short summary containing some general information about where I am from, my hobbies and my puppy. As the user makes their way throught the links provided on the nav bar they are able to access my portfolio, contact informaiton and links to my LinkedIn and GitHub accounts with just a click of a button. 
+
+## Technologies: 
+* HTML
+* CSS 
+* Bootstrap: https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## Installation
 Code Style: 
@@ -39,6 +46,9 @@ Contact page:
 
 ## Deployed 
 [deployed link](https://sfinck.github.io/portfolio-site/)
+
+## License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact 
 sarahfinck95@gmail.com
