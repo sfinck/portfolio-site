@@ -17,7 +17,7 @@ This project was designed to show case information, pictures and enable a way to
 ## Technologies: 
 * HTML
 * CSS 
-* Bootstrap: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Installation
 Code Style: 
@@ -45,7 +45,7 @@ Contact page:
 ![alt text](assets/contact-page.png)
 
 ## Deployed 
-[deployed link](https://sfinck.github.io/portfolio-site/)
+[Click here to view Deployed Link](https://sfinck.github.io/portfolio-site/)
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
